@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1B2735,100:00FFF2&height=260&section=header&text=SYSTEM%20ONLINE&fontSize=48&fontColor=00FFF2&animation=fadeIn&fontAlignY=38&desc=Inicializando%20perfil%20de%20desenvolvedor...&descAlignY=58&descSize=18&descColor=8892B0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1B2735,100:00FFF2&height=260&section=header&text=BIANCA%20RAMOS&fontSize=48&fontColor=00FFF2&animation=fadeIn&fontAlignY=38&desc=System%20Online%20-%20Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o&descAlignY=58&descSize=18&descColor=8892B0" width="100%"/>
 
 <a href="https://github.com/biaramoxx">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FFF2&center=true&vCenter=true&width=650&height=70&lines=Ol%C3%A1%2C+eu+sou+%5BSEU+NOME%5D_;Carregando+m%C3%B3dulos+de+desenvolvedor...;Compilando+conhecimento...;Sistema+pronto.+Bem-vindo." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FFF2&center=true&vCenter=true&width=650&height=70&lines=Ol%C3%A1%2C+eu+sou+Bianca+Ramos_;Carregando+m%C3%B3dulos+de+desenvolvedor...;Compilando+conhecimento...;Sistema+pronto.+Bem-vindo." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,20 +19,20 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## `>_` SOBRE MIM
-<h1>Olá rede! Eu sou Bianca, tenho 21 anos e sou graduanda em sistemas de informação na UVA.
-Estudo com foco em análise e ciências de dados e IA, faço curso da AWS practicione essencials e também SQL.</h1>
+
 <img align="right" width="230" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hologram" />
 
 ```yaml
 usuario:
   nome: "Bianca Ramos"
-
-  ocupacao: "Estudante de Sistemas de informação"
+  localizacao: "[SUA CIDADE, PAÍS]"
+  ocupacao: "Estudante de Sistemas de Informação"
   foco_atual: "Fundamentos de Python e lógica de programação"
   interesses:
     - "Desenvolvimento de software"
     - "Inteligência Artificial"
-    - "Cloud computing"
+    - "Arquitetura de sistemas"
+  filosofia: "Aprender fazendo, um módulo de cada vez."
 ```
 
 <br clear="right"/>
@@ -68,7 +68,7 @@ usuario:
 
 <div align="center">
 
-<a href="https://github.com/biaramoxx/">
+<a href="https://github.com/biaramoxx/PROJETO-1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=biaramoxx&repo=PROJETO-1&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=00FFF2&text_color=8892B0&icon_color=00FF9C"/>
 </a>
 <a href="https://github.com/biaramoxx/PROJETO-2">
@@ -92,7 +92,7 @@ usuario:
 
 ```bash
 guest@dev-machine:~$ whoami
-> Bianca Ramos — Estudante de Sistemas de iformação
+> Bianca Ramos — Estudante de Sistemas de Informação
 
 guest@dev-machine:~$ cat roadmap_2026.txt
 > [x] Lógica de programação
@@ -186,23 +186,6 @@ jobs:
 4. A imagem passa a ser gerada automaticamente todos os dias.
 
 </details>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## `>_` REDES & CONTATO
-
-<div align="center">
-
-<a href="https://https://www.linkedin.com/in/bianca-ramos-632991257/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00FFF2" />
-</a>
-<a href="https://discord.com/users/SEU-DISCORD">
-  <img src="https://img.shields.io/badge/Discord-0A0E27?style=for-the-badge&logo=discord&logoColor=00FFF2" />
-</a>
-
-</div>
-
-<br/>
 
 <div align="center">
 
