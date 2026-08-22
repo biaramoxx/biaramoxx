@@ -19,20 +19,20 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## `>_` SOBRE MIM
-
+<h1>Olá rede! Eu sou Bianca, tenho 21 anos e sou graduanda em sistemas de informação na UVA.
+Estudo com foco em análise e ciências de dados e IA, faço curso da AWS practicione essencials e também SQL.</h1>
 <img align="right" width="230" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hologram" />
 
 ```yaml
 usuario:
   nome: "Bianca Ramos"
-  localizacao: "[SUA CIDADE, PAÍS]"
-  ocupacao: "Estudante de Engenharia de Software"
+
+  ocupacao: "Estudante de Sistemas de informação"
   foco_atual: "Fundamentos de Python e lógica de programação"
   interesses:
     - "Desenvolvimento de software"
     - "Inteligência Artificial"
-    - "Arquitetura de sistemas"
-  filosofia: "Aprender fazendo, um módulo de cada vez."
+    - "Cloud computing"
 ```
 
 <br clear="right"/>
@@ -68,7 +68,7 @@ usuario:
 
 <div align="center">
 
-<a href="https://github.com/biaramoxx/PROJETO-1">
+<a href="https://github.com/biaramoxx/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=biaramoxx&repo=PROJETO-1&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=00FFF2&text_color=8892B0&icon_color=00FF9C"/>
 </a>
 <a href="https://github.com/biaramoxx/PROJETO-2">
@@ -92,7 +92,7 @@ usuario:
 
 ```bash
 guest@dev-machine:~$ whoami
-> Bianca Ramos — Estudante de Engenharia de Software
+> Bianca Ramos — Estudante de Sistemas de iformação
 
 guest@dev-machine:~$ cat roadmap_2026.txt
 > [x] Lógica de programação
@@ -193,23 +193,11 @@ jobs:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU-LINKEDIN">
+<a href="https://https://www.linkedin.com/in/bianca-ramos-632991257/">
   <img src="https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00FFF2" />
-</a>
-<a href="mailto:seu-email@exemplo.com">
-  <img src="https://img.shields.io/badge/Email-0A0E27?style=for-the-badge&logo=gmail&logoColor=00FFF2" />
-</a>
-<a href="https://instagram.com/SEU-INSTAGRAM">
-  <img src="https://img.shields.io/badge/Instagram-0A0E27?style=for-the-badge&logo=instagram&logoColor=00FFF2" />
-</a>
-<a href="https://twitter.com/SEU-TWITTER">
-  <img src="https://img.shields.io/badge/X-0A0E27?style=for-the-badge&logo=x&logoColor=00FFF2" />
 </a>
 <a href="https://discord.com/users/SEU-DISCORD">
   <img src="https://img.shields.io/badge/Discord-0A0E27?style=for-the-badge&logo=discord&logoColor=00FFF2" />
-</a>
-<a href="https://SEU-PORTFOLIO.com">
-  <img src="https://img.shields.io/badge/Portfolio-0A0E27?style=for-the-badge&logo=vercel&logoColor=00FFF2" />
 </a>
 
 </div>
