@@ -19,7 +19,8 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## `>_` SOBRE MIM
-<h1>Ola, rede! Eu sou a Bianca Ramos. Graduanda em Sistemas de Informação na UVA. Eu sou apaixonada em tecnologia! </h1>
+<h1></h1> Eu sou a Bianca Ramos. Sou graduanda em Sistemas de Informação na UVA.
+Estudo com foco em análise e ciência de dados e IA. Sou sou apaixonada em tecnologia! </h1>
 
 <img align="right" width="230" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hologram" />
 
