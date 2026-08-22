@@ -194,3 +194,4 @@ jobs:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF2,50:1B2735,100:0A0E27&height=120&section=footer" width="100%"/>
 
 </div>
+
