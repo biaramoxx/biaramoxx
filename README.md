@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1B2735,100:00FFF2&height=260&section=header&text=BIANCA%20RAMOS&fontSize=48&fontColor=00FFF2&animation=fadeIn&fontAlignY=38&desc=System%20Online%20-%20Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o&descAlignY=58&descSize=18&descColor=8892B0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1B2735,100:FF2D95&height=260&section=header&text=BIANCA%20RAMOS&fontSize=48&fontColor=FF2D95&animation=fadeIn&fontAlignY=38&desc=System%20Online%20-%20Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o&descAlignY=58&descSize=18&descColor=8892B0" width="100%"/>
 
 <a href="https://github.com/biaramoxx">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FFF2&center=true&vCenter=true&width=650&height=70&lines=Ol%C3%A1%2C+eu+sou+Bianca+Ramos_;Carregando+m%C3%B3dulos+de+desenvolvedor...;Compilando+conhecimento...;Sistema+pronto.+Bem-vindo." alt="Typing SVG" />
@@ -191,7 +191,6 @@ jobs:
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3500&pause=1000&color=8892B0&center=true&vCenter=true&width=600&height=40&lines=Encerrando+sess%C3%A3o...;Obrigado+pela+visita.;Conex%C3%A3o+finalizada." alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF2,50:1B2735,100:0A0E27&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D95,50:1B2735,100:0A0E27&height=120&section=footer" width="100%"/>
 
 </div>
-
