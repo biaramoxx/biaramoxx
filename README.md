@@ -27,15 +27,14 @@ Estudo com foco em análise e ciência de dados e IA. Sou sou apaixonada em tecn
 ```yaml
 usuario:
   nome: "Bianca Ramos"
-  localizacao: "[SUA CIDADE, PAÍS]"
+
   ocupacao: "Estudante de Sistemas de Informação"
   foco_atual: "Fundamentos de Python e lógica de programação"
   interesses:
     - "Desenvolvimento de software"
     - "Inteligência Artificial"
     - "Arquitetura de sistemas"
-  filosofia: "Aprender fazendo, um módulo de cada vez."
-```
+
 
 <br clear="right"/>
 
